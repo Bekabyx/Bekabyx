@@ -16,7 +16,6 @@
     </div>                                                                                                                 
     <br/>
     <div>
-        <a href="https://psnprofiles.com/bekabyx"><img src="https://img.shields.io/badge/PSN-1e90ff.svg?style=for-the-badge&logo=Playstation&logoColor=white"></a>
-        <a rel="me" href="https://pythonist.as/@bekabyx"><img src="https://img.shields.io/badge/Mastodon-8A2BE2?style=for-the-badge&logo=mastodon&logoColor=white"></a>    
+        <a href="https://psnprofiles.com/bekabyx"><img src="https://img.shields.io/badge/PSN-1e90ff.svg?style=for-the-badge&logo=Playstation&logoColor=white"></a> 
     </div>
 </div>
