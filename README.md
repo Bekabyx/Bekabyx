@@ -1,6 +1,6 @@
 <div align="center" style="margin-top:0">
     <img src="we_like_bears.svg" width="100%" alt="The name Rebeka Lewis being rearraanged to spell We Like Bears">
-    Hey. I'm Bek.
+    Hey. I'm Rebeka.
     <br/>
     I love bears so as you can see my name is very convenient.    
     <br/><br/>
